@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hole ticsosos 👋
 
-<!--
-**Dianne707/Dianne707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Estudiando Tic’s en PFLC
+- 🌱 Aprendo a usar Github
+- 👯 Colaboraciones con Yania-Noris
+- 🤔 ¿Dudas? muchas
+- 💬 Lector
+- 📫gaming
+- 😄 Pronouns: She/He
+- ⚡ Experto en MM
 -->
+![](![image](https://user-images.githubusercontent.com/113718128/218569429-f23b2157-47a0-4606-b797-51c7be38f038.png)
+
